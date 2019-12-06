@@ -20,7 +20,7 @@ SoundBox is a free android music player with some extra features such as online 
 ## Screenshots
 <center>
 <div>
-  <img src="http://trainbit.com/files/3638500884/Splash_Screen_-_P1.jpg" width="280" height="460" inline-block;/>
+  <img src="http://www.mediafire.com/view/k5ypm2j69zw6lgf/Splash%20Screen%20-%20P1.jpg" width="280" height="460" inline-block;/>
   <img src="http://trainbit.com/files/4638500884/Sign_up_Page_-_P1.jpg" width="280" height="460" inline-block/>
   <img src="http://trainbit.com/files/0838500884/Login_Page_-_P1.jpg" width="280" height="460" inline-block/>
   <img src="http://trainbit.com/files/5838500884/Home_Fragment_-_P1.jpg" width="280" height="460" inline-block;/>
