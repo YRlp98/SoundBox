@@ -20,9 +20,12 @@ SoundBox is a free android music player with some extra features such as online 
 ## Screenshots
 <center>
 <div>
-  <img src="https://dl.cafedl.com/Yousef/Apps/SoundBox/Screenshots/SplashScreen.P1.jpg" width="208" height="368" inline-block;/>
-  <img src="https://dl.cafedl.com/Yousef/Apps/SoundBox/Screenshots/LoginPage.P1.jpg" width="208" height="368" inline-block/>
-  <img src="https://dl.cafedl.com/Yousef/Apps/SoundBox/Screenshots/HomeFragment.P1.jpg" width="208" height="368" inline-block/>
-  <img src="https://dl.cafedl.com/Yousef/Apps/SoundBox/Screenshots/player.P1.jpg" width="208" height="368" inline-block;/>
+  <img src="http://trainbit.com/files/3638500884/Splash_Screen_-_P1.jpg" width="280" height="460" inline-block;/>
+  <img src="http://trainbit.com/files/4638500884/Sign_up_Page_-_P1.jpg" width="280" height="460" inline-block/>
+  <img src="http://trainbit.com/files/0838500884/Login_Page_-_P1.jpg" width="280" height="460" inline-block/>
+  <img src="http://trainbit.com/files/5838500884/Home_Fragment_-_P1.jpg" width="280" height="460" inline-block;/>
+  <img src="http://trainbit.com/files/6638500884/player_-_P1.jpg" width="280" height="460" inline-block;/>
+  <img src="http://trainbit.com/files/9638500884/Search_-_P1.png" width="280" height="460" inline-block;/>
+  <img src="http://trainbit.com/files/7638500884/More_-_P1.jpg" width="280" height="460" inline-block;/>
 <div/>
 <center/>
