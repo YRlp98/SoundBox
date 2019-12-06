@@ -20,12 +20,12 @@ SoundBox is a free android music player with some extra features such as online 
 ## Screenshots
 <center>
 <div>
-  <img src="http://www.mediafire.com/convkey/2e7f/k5ypm2j69zw6lgfzg.jpg" width="280" height="460" inline-block;/>
-  <img src="http://trainbit.com/files/4638500884/Sign_up_Page_-_P1.jpg" width="280" height="460" inline-block/>
-  <img src="http://trainbit.com/files/0838500884/Login_Page_-_P1.jpg" width="280" height="460" inline-block/>
-  <img src="http://trainbit.com/files/5838500884/Home_Fragment_-_P1.jpg" width="280" height="460" inline-block;/>
-  <img src="http://trainbit.com/files/6638500884/player_-_P1.jpg" width="280" height="460" inline-block;/>
-  <img src="http://trainbit.com/files/9638500884/Search_-_P1.png" width="280" height="460" inline-block;/>
-  <img src="http://trainbit.com/files/7638500884/More_-_P1.jpg" width="280" height="460" inline-block;/>
+  <img src="http://www.mediafire.com/convkey/2e7f/k5ypm2j69zw6lgfzg.jpg" width="280" height="498" inline-block;/>
+  <img src="http://www.mediafire.com/convkey/73a6/s0hpnj9xy49c66ozg.jpg" width="280" height="498" inline-block/>
+  <img src="http://www.mediafire.com/convkey/50df/fugr1kmadd3k0uczg.jpg" width="280" height="498" inline-block/>
+  <img src="http://www.mediafire.com/convkey/2604/iww9b92xpv7tmqjzg.jpg" width="280" height="498" inline-block;/>
+  <img src="http://www.mediafire.com/convkey/5afa/14bolq9ngonhypuzg.jpg" width="280" height="498" inline-block;/>
+  <img src="http://www.mediafire.com/convkey/8032/yudqotwg1gplbkzzg.jpg" width="280" height="498" inline-block;/>
+  <img src="http://www.mediafire.com/convkey/0332/ltvauoshg7ay1spzg.jpg" width="280" height="498" inline-block;/>
 <div/>
 <center/>
